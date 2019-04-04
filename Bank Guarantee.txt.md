@@ -3,10 +3,8 @@
 
 ---
 
-<h1 id="how-to-guides">How-to guides</h1>
-<p>These guides will help you do stuff.</p>
 <h2 id="how-to-request-a-bank-guarantee">How to request a bank guarantee</h2>
-<p>Banks guarantee’s are used when you might need to do so for reasons that are currently unknown, I will have to find out from somebody why you might do this thing and when it’s done and who does it.</p>
+<p>Bank guarantee’s are used when you might need to do so for reasons that are currently unknown, I will have to find out from somebody why you might do this thing and when it’s done and who does it.</p>
 <ul>
 <li><a href="#create-a-new-issue">Create a new Issue</a></li>
 <li><a href="#create-a-new-document">Create a new document</a></li>
@@ -33,9 +31,7 @@
 <li>Select the <strong>Use Template</strong> as Request for Bank Guarantee</li>
 <li>The <strong>Create in Project</strong> should be set to your project already, but if not, then select the relevant project.</li>
 <li>Set the <strong>New Document Name</strong> to a relevant description</li>
-<li>The <strong>Document Template</strong> will load with the five (5) steps to completed.<br>
-– Read and follow the instructions given at the start of each step.<br>
-– Click the <strong>Save and Continue</strong> button to proceed to the next step or navigate between steps using the navigation menu on the right hand side.</li>
+<li>The <strong>Document Template</strong> will load with the five (5) steps to completed. Read and follow the instructions given at the start of each step. Click the <strong>Save and Continue</strong> button to proceed to the next step or navigate between steps using the navigation menu on the right hand side.</li>
 </ol>
 <h3 id="obtain-document-sign-off">Obtain document sign-off</h3>
 <ol>
